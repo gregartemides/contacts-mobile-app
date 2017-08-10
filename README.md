@@ -6,9 +6,8 @@ The objective was to build both a mobile (React Native) and web experience (Reac
 https://expo.io/@gregartemides/Contacts-CRUD-RESTful
 
 ## Companion Projects
-Contacts RESTful Api: https://github.com/gregartemides/contacts-api
-
-Contacts Web App on Codepen: https://codepen.io/gregartemides/pen/WEjZpa
+1. Contacts RESTful Api: https://github.com/gregartemides/contacts-api
+2. Contacts Web App on Codepen: https://codepen.io/gregartemides/pen/WEjZpa
 
 ## Setup
 Prerequisites: You need to have Expo XDE or the exp CLI installed
