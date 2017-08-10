@@ -1,0 +1,2587 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"lh",
+				"line-height"
+			],
+			[
+				"fon",
+				"font-awesome"
+			],
+			[
+				"hero",
+				"heroText"
+			],
+			[
+				"vessel",
+				"vesselResult"
+			],
+			[
+				"vesse",
+				"vesselResult"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"is",
+				"is_front_page"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"shadow",
+				"text-shadow: 〔property〕"
+			],
+			[
+				"get_sty",
+				"get_stylesheet_directory_uri"
+			],
+			[
+				"json",
+				"json_encode〔function〕"
+			],
+			[
+				"blog",
+				"blog_data"
+			],
+			[
+				"getRou",
+				"getRouteVar〔function〕"
+			],
+			[
+				"met",
+				"meta_description"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"let",
+				"left_or_right"
+			],
+			[
+				"getS",
+				"getSecondPhoto〔function〕"
+			],
+			[
+				"embed",
+				"embedVideo〔function〕"
+			],
+			[
+				"filterByPa",
+				"filterByPageStatusId(3"
+			],
+			[
+				"month",
+				"monthChanged"
+			],
+			[
+				"fake",
+				"fakeSelectMonth"
+			],
+			[
+				"mont",
+				"monthOrYearChanged"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"getSo",
+				"getSizedPhoto"
+			],
+			[
+				"pa",
+				"paths"
+			],
+			[
+				"jq",
+				"jqBootstrapValidation"
+			],
+			[
+				"drag",
+				"dragEnter"
+			],
+			[
+				"menu",
+				"menu_item_i18n"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"overflow",
+				"overflow-x"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"brw",
+				"browser-sync"
+			],
+			[
+				"bro",
+				"browserSync"
+			],
+			[
+				"double",
+				"doubleQuote"
+			],
+			[
+				"CHAT",
+				"chat-room"
+			],
+			[
+				"Acti",
+				"ActivityQuery"
+			],
+			[
+				"Acl",
+				"AclObjectAccessPeer"
+			],
+			[
+				"acl",
+				"acl_object_access"
+			],
+			[
+				"membe",
+				"MemberLimit"
+			],
+			[
+				"to",
+				"toJSON"
+			],
+			[
+				"boot",
+				"communityBootstrap"
+			],
+			[
+				"ma",
+				"maxMemberLimit"
+			],
+			[
+				"sc",
+				"screen_name"
+			],
+			[
+				"last",
+				"lastname_field"
+			],
+			[
+				"sub",
+				"subdomain_field"
+			],
+			[
+				"password",
+				"password_field"
+			],
+			[
+				"company",
+				"company_name_field"
+			],
+			[
+				"screen",
+				"screen_name_field"
+			],
+			[
+				"comp",
+				"company_name"
+			],
+			[
+				"valid",
+				"validateScreenName"
+			],
+			[
+				"scr",
+				"screen_name_field"
+			],
+			[
+				"getRout",
+				"getRouteVar"
+			],
+			[
+				"com",
+				"community_user_ids"
+			],
+			[
+				"to_join",
+				"to_join_user_ids"
+			],
+			[
+				"acti",
+				"activity_user_ids"
+			],
+			[
+				"commun",
+				"community_user_ids"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"getreq",
+				"getRequestVar"
+			],
+			[
+				"addTo",
+				"addToCommunity"
+			],
+			[
+				"commu",
+				"communityMembers"
+			],
+			[
+				"activity",
+				"activityMembers"
+			],
+			[
+				"user",
+				"userParams"
+			],
+			[
+				"filter_o",
+				"filter_ops"
+			],
+			[
+				"comm",
+				"communityBootstrap"
+			],
+			[
+				"n",
+				"makeScreeName"
+			],
+			[
+				"scre",
+				"screenName"
+			],
+			[
+				"pass",
+				"passwords_valid"
+			],
+			[
+				"passwords_",
+				"passwords_match"
+			],
+			[
+				"findON",
+				"findOneByName"
+			],
+			[
+				"error",
+				"error404"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"add-to",
+				"add-to-community"
+			],
+			[
+				"getAc",
+				"getAccountId"
+			],
+			[
+				"notifica",
+				"notificationParams"
+			],
+			[
+				"invi",
+				"invitationsToCommunity"
+			],
+			[
+				"invit",
+				"invitations-to-community"
+			],
+			[
+				"notification_re",
+				"notification_request"
+			],
+			[
+				"no",
+				"notificationParams"
+			],
+			[
+				"rou",
+				"route_name"
+			],
+			[
+				"activi",
+				"activity-members"
+			],
+			[
+				"getr",
+				"getRouteName"
+			],
+			[
+				"findOe",
+				"findOneByName"
+			],
+			[
+				"noti",
+				"notification_request"
+			],
+			[
+				"activ",
+				"activity-members"
+			],
+			[
+				"getRquest",
+				"getRequestVar"
+			],
+			[
+				"js",
+				"js_var_name"
+			],
+			[
+				"Commu",
+				"CommunityQuery"
+			],
+			[
+				"ProfileE",
+				"ProfileExtraValue"
+			],
+			[
+				"Profile",
+				"ProfileExtraValue"
+			],
+			[
+				"ProfileEx",
+				"ProfileExtraDefinition"
+			],
+			[
+				"ProfileExt",
+				"ProfileExtraValue"
+			],
+			[
+				"extra_v",
+				"extra_values2"
+			],
+			[
+				"ProfileExtr",
+				"ProfileExtraValuesQuery"
+			],
+			[
+				"filterByAcc",
+				"filterByAccountId"
+			],
+			[
+				"extra_de",
+				"extra_definition"
+			],
+			[
+				"getA",
+				"getAccountId"
+			],
+			[
+				"VAR",
+				"var_dump"
+			],
+			[
+				"getEr",
+				"getErrorMessage"
+			],
+			[
+				"getREq",
+				"getRequestVar"
+			],
+			[
+				"date_defa",
+				"date_default_timezone_set"
+			],
+			[
+				"ha",
+				"hasActivityAccess"
+			],
+			[
+				"getNot",
+				"getNotificationResponse"
+			],
+			[
+				"community",
+				"community_id"
+			],
+			[
+				"NOT",
+				"notificationsBootstrap"
+			],
+			[
+				"Re",
+				"RequestName"
+			],
+			[
+				"invite",
+				"invite_to_activity"
+			],
+			[
+				"invite_to",
+				"invite_to_community"
+			],
+			[
+				"notii",
+				"notifications_bootstrap"
+			],
+			[
+				"REqu",
+				"RequestName"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"Activit",
+				"ActivityId"
+			],
+			[
+				"Ac",
+				"AccountId"
+			],
+			[
+				"rende",
+				"renderFolders"
+			],
+			[
+				"la",
+				"laquo"
+			],
+			[
+				"getReque",
+				"getRequestVar"
+			],
+			[
+				"notification",
+				"notification-follow"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/components/user/UserList.js",
+			"settings":
+			{
+				"buffer_size": 2222,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/components/user/UserDetail.js",
+			"settings":
+			{
+				"buffer_size": 1487,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "them",
+		"selected_items":
+		[
+			[
+				"them",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"theme",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"sidba",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sid",
+				"Snippet: bs3-input-date"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sftp",
+				"SFTP: Show Panel"
+			],
+			[
+				"sidb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"col",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"xdre",
+				"Xdebug: Restore Layout"
+			],
+			[
+				"start",
+				"Xdebug: Restart Session"
+			],
+			[
+				"xder",
+				"Xdebug: Restart Session"
+			],
+			[
+				"debug",
+				"Xdebug: Start Debugging (Launch Browser)"
+			],
+			[
+				"stop",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"star",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"pare",
+				"Package Control: Remove Package"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"pain",
+				"Package Control: Install Package"
+			],
+			[
+				"pack rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"sideba",
+				"View: Toggle Side Bar"
+			],
+			[
+				"minim",
+				"View: Toggle Minimap"
+			],
+			[
+				"sidbar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"siebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"pakcin",
+				"Package Control: Install Package"
+			],
+			[
+				"si",
+				"View: Toggle Side Bar"
+			],
+			[
+				"xd",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"di",
+				"FileDiffs: Menu"
+			],
+			[
+				"sftpbr",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftbr",
+				"SFTP: Browse Server…"
+			],
+			[
+				"apac",
+				"Package Control: Install Package"
+			],
+			[
+				"xde",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"debu",
+				"Xdebug: Start Debugging (Launch Browser)"
+			],
+			[
+				"run",
+				"Xdebug: Breakpoint - Run"
+			],
+			[
+				"xrun",
+				"Xdebug: Breakpoint - Run"
+			],
+			[
+				"xds",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"siid",
+				"Snippet: bs3-input-date"
+			],
+			[
+				"sftp upl",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"x",
+				"Xdebug: Clear Breakpoints"
+			],
+			[
+				"xs",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"xdc",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"sftp ",
+				"SFTP: Diff Remote File"
+			],
+			[
+				"sftbro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftpb",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"sftedi",
+				"SFTP: Edit Server…"
+			],
+			[
+				"sftpset",
+				"SFTP: Setup Server…"
+			],
+			[
+				"edit",
+				"SFTP: Edit Server…"
+			],
+			[
+				"SID",
+				"View: Toggle Side Bar"
+			],
+			[
+				"xdst",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"stlau",
+				"Xdebug: Start Debugging (Launch Browser)"
+			],
+			[
+				"xdest",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"restart",
+				"Xdebug: Restart Session"
+			],
+			[
+				"xdstal",
+				"Xdebug: Start Debugging (Launch Browser)"
+			],
+			[
+				"xd clo",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"startde",
+				"Xdebug: Start Debugging (Launch Browser)"
+			],
+			[
+				"startdeb",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"run to li",
+				"Xdebug: Breakpoint - Run To Line"
+			],
+			[
+				"deb stl",
+				"Xdebug: Start Debugging (Launch Browser)"
+			],
+			[
+				"xd stopc",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"run to ",
+				"Xdebug: Breakpoint - Run To Line"
+			],
+			[
+				"start ",
+				"Xdebug: Start Debugging (Launch Browser)"
+			],
+			[
+				"stopd",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"xdstoc",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"startd",
+				"Xdebug: Start Debugging (Launch Browser)"
+			],
+			[
+				"stop cl",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"startl",
+				"Xdebug: Start Debugging (Launch Browser)"
+			],
+			[
+				"stop se",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"evalu",
+				"Xdebug: Session - Evaluate"
+			],
+			[
+				"evaluate",
+				"Xdebug: Session - Evaluate"
+			],
+			[
+				"step into",
+				"Xdebug: Breakpoint - Step Into"
+			],
+			[
+				"start de",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"xdebug",
+				"Preferences: Xdebug Settings – Default"
+			],
+			[
+				"xde star",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"xde stop",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"xdebu sess sta",
+				"Xdebug: Session - Status"
+			],
+			[
+				"xdeb",
+				"Xdebug: Session - Evaluate"
+			],
+			[
+				"run to",
+				"Xdebug: Breakpoint - Run To Line"
+			],
+			[
+				"debug clear",
+				"Xdebug: Clear All Breakpoints"
+			],
+			[
+				"start d",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"run to line",
+				"Xdebug: Breakpoint - Run To Line"
+			],
+			[
+				" run to li",
+				"Xdebug: Breakpoint - Run To Line"
+			],
+			[
+				"run to lin",
+				"Xdebug: Breakpoint - Run To Line"
+			],
+			[
+				"RUN to li",
+				"Xdebug: Breakpoint - Run To Line"
+			],
+			[
+				"DEB STO",
+				"Xdebug: Start Debugging (Launch Browser)"
+			],
+			[
+				"debu lau",
+				"Xdebug: Stop Debugging (Launch Browser)"
+			],
+			[
+				"rtol",
+				"Xdebug: Breakpoint - Run To Line"
+			],
+			[
+				"runtolin",
+				"Xdebug: Breakpoint - Run To Line"
+			],
+			[
+				"remove",
+				"Xdebug: Add/Remove Breakpoint"
+			],
+			[
+				"start d lau",
+				"Xdebug: Start Debugging (Launch Browser)"
+			],
+			[
+				"xdebstart",
+				"Xdebug: Restart Session"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ali",
+				"AlignTab"
+			],
+			[
+				"isd",
+				"Snippet: Start Docblock"
+			],
+			[
+				"pom",
+				"pomodoro"
+			],
+			[
+				"pac inst",
+				"Package Control: Install Package"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"settings uer",
+				"Preferences: Settings - User"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			],
+			[
+				"pref",
+				"Preferences: Settings - User"
+			],
+			[
+				"use",
+				"Preferences: Settings - User"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"us",
+				"Preferences: Settings - User"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"keyuser",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"packrm",
+				"Package Control: Remove Package"
+			],
+			[
+				"pomodor",
+				"pomodoro"
+			],
+			[
+				"pomo",
+				"pomodoro"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packains",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"dif",
+				"FileDiffs: Menu"
+			],
+			[
+				"fildi",
+				"FileDiffs: Menu"
+			],
+			[
+				"fetma",
+				"Fetch: Manage"
+			],
+			[
+				"fetch",
+				"Fetch: File"
+			],
+			[
+				"fetm",
+				"Fetch: Manage"
+			],
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"feth",
+				"Fetch: Manage"
+			],
+			[
+				"_",
+				"Snippet: <?php _e() ?>"
+			],
+			[
+				"<?",
+				"Snippet: <?php _e() ?>"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"fetf",
+				"Fetch: File"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/js",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/js/components",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/js/components/Header"
+	],
+	"file_history":
+	[
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/js/components/user/UserDetail.js",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/react-native/Libraries/Lists/ListView/ListViewDataSource.js",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/App.js",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/js/App.js",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/native-base/dist/src/basic/List.js",
+		"/Users/grigoris/Websites/_/CRUD/App.js",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/native-base/src/basic/List.js",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/js/components/user/UserList.js",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/js/themes/variables.js",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/native-base-theme/variables/commonColor.js",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/native-base-theme/variables/material.js",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/native-base-theme/variables/platform.js",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/@expo/vector-icons/vendor/react-native-vector-icons/README.md",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/art/modes/canvas/text.js",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/art/parsers/svg/core.js",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/cli-width/coverage/lcov-report/base.css",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/errorhandler/public/style.css",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/lottie-react-native/lib/android/build/docs/javadoc/stylesheet.css",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/lottie-react-native/lib/android/build/outputs/lint-results-debug.html",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/native-base/dist/src/theme/variables/commonColor.js",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/native-base/dist/src/theme/variables/commonColor.js.map",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/native-base/dist/src/theme/variables/material.js",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/native-base/dist/src/theme/variables/material.js.map",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/native-base/dist/src/theme/variables/platform.js",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/native-base/dist/src/theme/variables/platform.js.map",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/native-base/package.json",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/native-base/README.md",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/native-base/src/theme/variables/commonColor.js",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/native-base/src/theme/variables/material.js",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/native-base/src/theme/variables/platform.js",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/react-devtools-core/build/standalone.js",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/react-native-scrollable-tab-view/package.json",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/react-native-scrollable-tab-view/README.md",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/react-native-vector-icons/package.json",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/react-native-vector-icons/README.md",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/react-native/docs/Text.md",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/react-native/Libraries/Animated/examples/style.css",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/react-native/RNTester/js/helloworld.html",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/react-native/RNTester/js/TextExample.android.js",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/react-native/RNTester/js/WebViewExample.js",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/react-native/website/src/react-native/css/react-native.css",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/rebound/browser_test/jasmine.css",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/rebound/docs/docco.css",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/rebound/examples/index.html",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/rebound/examples/main.css",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/serve-index/public/style.css",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/stream-buffers/coverage/lcov-report/base.css",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/through2/LICENSE.html",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/native-base/Fonts/Roboto.ttf",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/native-base/Fonts/Roboto_medium.ttf",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/react-devtools-core/build/standalone.js.map",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/node_modules/expo/src/Font.js",
+		"/Users/grigoris/Websites/_/TestingNavigation/node_modules/react-native-branch/package.json",
+		"/Users/grigoris/Websites/_/TestingNavigation/node_modules/react-native-maps/package.json",
+		"/Users/grigoris/Websites/_/TestingNavigation/node_modules/lottie-react-native/package.json",
+		"/Users/grigoris/Websites/_/TestingNavigation/node_modules/react-navigation/lib/navigators/StackNavigator.js",
+		"/Users/grigoris/Websites/_/TestingNavigation/navigation/RootNavigation.js",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/package.json",
+		"/Users/grigoris/Websites/_/CRUD-With-NativeBase/app.json",
+		"/Users/grigoris/Websites/demades/wp-content/themes/demades/page_contained.php",
+		"/Users/grigoris/Websites/demades/wp-content/themes/demades/src/css/5_style.css",
+		"/Users/grigoris/Websites/demades/wp-content/themes/demades/page.php",
+		"/Users/grigoris/Websites/demades/wp-content/themes/demades/single-project.php",
+		"/Users/grigoris/Websites/demades/wp-content/themes/demades/style.css",
+		"/Users/grigoris/Websites/demades/wp-content/themes/demades/functions.php",
+		"/Users/grigoris/Downloads/africanos_temp/ckfinder/ckfinder.js",
+		"/Users/grigoris/Websites/_/list.php",
+		"/Users/grigoris/Websites/demades/wp-content/themes/demades/src/js/50_index.js",
+		"/Users/grigoris/Websites/demades/wp-content/themes/demades/header.php",
+		"/Users/grigoris/Websites/demades/wp-content/themes/demades/footer.php",
+		"/Users/grigoris/Websites/adrelevance/browser-sync",
+		"/private/var/folders/45/8q8135bj2g398wn4v23rgfw40000gn/T/fz3temp-2/.htaccess",
+		"/Users/grigoris/Websites/demades/wp-content/themes/demades/dist/js/script.js",
+		"/Users/grigoris/Websites/demades/wp-content/themes/demades/src/js/20_modal.js",
+		"/Users/grigoris/Websites/demades/wp-content/themes/demades/src/js/4_index.js",
+		"/Users/grigoris/Websites/demades/wp-content/themes/demades/gulpfile.js",
+		"/Users/grigoris/Websites/demades/wp-content/themes/demades/src/css/style.css",
+		"/Users/grigoris/Websites/demades/wp-content/themes/demades/package.json",
+		"/Users/grigoris/Websites/demades/wp-content/themes/demades/fonts.list",
+		"/Users/grigoris/Websites/demades/wp-content/themes/demades/node_modules/fontawesome/README.md",
+		"/Users/grigoris/Websites/demades/wp-content/themes/package.json",
+		"/Users/grigoris/Websites/demades/wp-content/themes/gulpfile.js",
+		"/Users/grigoris/Websites/wcc3/deploy",
+		"/Users/grigoris/Websites/wcc3/wp-content/themes/wcc/front-page.php",
+		"/Users/grigoris/Websites/wcc3/wp-content/themes/wcc/footer.php",
+		"/Users/grigoris/Websites/wcc3/wp-includes/theme-compat/header.php",
+		"/Users/grigoris/Websites/wcc3/wp-content/themes/wcc/single-package.php",
+		"/Users/grigoris/Websites/wcc3/wp-content/themes/wcc/less/page.less",
+		"/Users/grigoris/Websites/wcc3/wp-content/themes/wcc/single.php",
+		"/Users/grigoris/Websites/wcc3/db.php",
+		"/Users/grigoris/Websites/wcc3/wp-content/themes/wcc/functions.php",
+		"/Users/grigoris/Websites/wcc3/wcc3.sql",
+		"/Users/grigoris/Websites/wcc3/.gitignore",
+		"/Users/grigoris/Websites/wcc3/wp-content/themes/wcc/js/main.js",
+		"/Users/grigoris/Websites/wcc3/wp-content/themes/twentyseventeen/front-page.php",
+		"/Users/grigoris/Websites/eastpandi/htdocs/wp-content/themes/eastpandi/functions.php",
+		"/Users/grigoris/Websites/eastpandi/htdocs/wp-content/themes/eastpandi/header.php",
+		"/Users/grigoris/Websites/eastpandi/htdocs/wp-content/themes/eastpandi/inc/td-customizer.php",
+		"/Users/grigoris/Websites/eastpandi/htdocs/wp-content/themes/eastpandi/style.css",
+		"/Users/grigoris/Websites/eastpandi/htdocs/wp-content/themes/eastpandi/footer.php",
+		"/Users/grigoris/Websites/autocomplete/script.js",
+		"/Users/grigoris/Websites/autocomplete/style.css",
+		"/Users/grigoris/Websites/autocomplete/bs-config.js",
+		"/Users/grigoris/Websites/eastpandi/htdocs/wp-content/themes/eastpandi/bs-config.js",
+		"/Users/grigoris/Websites/eastpandi/bs-config.js",
+		"/Users/grigoris/Websites/eastpandi/htdocs/wp-content/themes/eastpandi/content.php",
+		"/Users/grigoris/Websites/eastpandi/htdocs/wp-content/themes/unika/page.php",
+		"/Users/grigoris/Websites/eastpandi/htdocs/ajax.html",
+		"/Users/grigoris/Websites/eastpandi/htdocs/import.php",
+		"/Users/grigoris/Websites/eastpandi/htdocs/ships.csv",
+		"/Users/grigoris/Websites/eastpandi/htdocs/wp-admin/import.php",
+		"/Users/grigoris/Websites/eastpandi/_assets/flags.html",
+		"/Users/grigoris/Websites/eastpandi/_assets/flags2.html",
+		"/Users/grigoris/Websites/eastpandi/htdocs/wp-content/plugins/csv-importer-for-pods/files/ships.csv",
+		"/Users/grigoris/Websites/eastpandi/htdocs/wp-content/plugins/csv-importer-for-pods/files/example_phone_category.csv",
+		"/Users/grigoris/Websites/eastpandi/htdocs/wp-content/plugins/pods/classes/PodsAPI.php",
+		"/Users/grigoris/Websites/eastpandi/htdocs/wp-content/plugins/csv-importer-for-pods/files/example_interested_phone.csv",
+		"/Users/grigoris/Websites/eastpandi/htdocs/wp-content/themes/unika/inc/td-customizer.php",
+		"/Users/grigoris/Websites/eastpandi/_assets/build-year.html",
+		"/Users/grigoris/Downloads/bootstrap.js.map",
+		"/Users/grigoris/Websites/eastpandi/.gitignore",
+		"/Users/grigoris/Websites/eastpandi/local",
+		"/Users/grigoris/Websites/eastpandi/remote",
+		"/Users/grigoris/Websites/eastpandi/deploy",
+		"/etc/hosts",
+		"/etc/apache2/extra/httpd-vhosts.conf",
+		"/Users/grigoris/Websites/eastpandi/htdocs/wp-content/themes/eastpandi/page.php",
+		"/Users/grigoris/Websites/eastpandi/htdocs/wp-includes/theme-compat/header.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/grigoris/Websites/_/CRUD-With-NativeBase",
+			"/Users/grigoris/Websites/eastpandi//htdocs/wp-content/themes",
+			"/Users/grigoris/Websites/eastpandi/htdocs/wp-content/themes/unika",
+			"/Users/grigoris/Websites/eastpandi/htdocs/wp-content/plugins/dropscodes",
+			"/Users/grigoris/Websites/eastpandi/htdocs/wp-content/themes/unika",
+			"/Users/grigoris/Websites/eastpandi",
+			"/Users/grigoris/Websites/eastpandi/htdocs/wp-content/themes/unika",
+			"/Users/grigoris/Websites/eastpandi",
+			"/Users/grigoris/Websites/eastpandi/htdocs/wp-content/themes/unika/inc/js",
+			"/Users/grigoris/Websites/eastpandi/htdocs/wp-content/plugins/js_composer",
+			"/Users/grigoris/Websites/africanos/apps",
+			"/Users/grigoris/Websites/africanos/htdocs/css",
+			"/Users/grigoris/Websites/africanos/htdocs/js",
+			"/Users/grigoris/Websites/africanos/apps/frontend",
+			"/Users/grigoris/Websites/CWLN/website/_assets/less",
+			"/Users/grigoris/Websites/CWLN/apps",
+			"/Users/grigoris/Websites/CWLN/htdocs/js",
+			"/Users/grigoris/Websites/CWLN/htdocs/js/cms/jscalendar",
+			"/Users/grigoris/Websites/CWLN/less",
+			"/Users/grigoris/Websites/saas",
+			"/Users/grigoris/Websites/saas/apps",
+			"/Users/grigoris/Websites/saas",
+			"/Users/grigoris/Websites/saas/lib",
+			"/Users/grigoris/Websites/saas/apps",
+			"/Users/grigoris/Websites/saas/apps/frontend",
+			"/Users/grigoris/Websites/saas/apps/frontend/assets",
+			"/Users/grigoris/Websites/saas/apps/frontent/assets",
+			"/Users/grigoris/Websites/saas/httpdocs/js",
+			"/Users/grigoris/Websites/httpdocs/js",
+			"/Users/grigoris/Websites/htdocs/js",
+			"/Users/grigoris/Websites/saas/apps",
+			"/Users/grigoris/Websites/saas",
+			"/Users/grigoris/Websites/saas/apps",
+			"/Users/grigoris/Websites/saas",
+			"/Users/grigoris/Websites/saas/apps/frontend/assets",
+			"/Users/grigoris/Websites/saas/apps/frontend",
+			"/Users/grigoris/Websites/saas/apps",
+			"/Users/grigoris/Websites/saas/apps/frontend/controllers",
+			"/Users/grigoris/Websites/saas/apps",
+			"/Users/grigoris/Websites/saas/config",
+			"/Users/grigoris/Websites/saas/gaFramework",
+			"/Users/grigoris/Websites/saas/lib",
+			"/Users/grigoris/Websites/saas/apps",
+			"/Users/grigoris/Websites/saas",
+			"/Users/grigoris/Websites/saas/apps/frontend/assets",
+			"/Users/grigoris/Websites/saas",
+			"/Users/grigoris/Websites/saas/gaFramework",
+			"/Users/grigoris/Websites/saas",
+			"/Users/grigoris/Websites/saas/apps/frontend",
+			"/Users/grigoris/Websites/saas",
+			"/Users/grigoris/Websites/saas/gaFramework/vendors/propel",
+			"/Users/grigoris/Websites/saas/gaFramework/vendors/propel/vendor/propel/propel1/runtime",
+			"/Users/grigoris/Websites/saas/apps",
+			"/Users/grigoris/Websites/saas",
+			"/Users/grigoris/Websites/saas/apps/frontend",
+			"/Users/grigoris/Websites/saas/apps/frontend/controllers",
+			"/Users/grigoris/Websites/saas/apps/frontend",
+			"/Users/grigoris/Websites/saas/apps/frontend/assets/sass",
+			"/Users/grigoris/Websites/saas/apps",
+			"/Users/grigoris/Websites/saas",
+			"/Users/grigoris/Websites/saas/gaFramework/1.6/gaBsForm",
+			"/Users/grigoris/Websites/saas/gaFramework/1.6/gaForm",
+			"/Users/grigoris/Websites/saas/apps/",
+			"/Users/grigoris/Websites/saas/apps/frontend/assets/sass",
+			"/Users/grigoris/Websites/saas/apps",
+			"/Users/grigoris/Websites/saas/htdocs/light-blue",
+			"/Users/grigoris/Websites/saas/htdocs/light-blue/js",
+			"/Users/grigoris/Websites/saas/htdocs",
+			"/Users/grigoris/Websites/saas/apps",
+			"/Users/grigoris/Websites/saas/apps/frontend/assets/sass",
+			"/Users/grigoris/Websites/saas/apps",
+			"/Users/grigoris/Websites/saas/apps/frontend/assets/sass",
+			"/Users/grigoris/Websites/saas/apps/frontend/assets",
+			"/Users/grigoris/Websites/saas/apps/frontend/assets/sass",
+			"/Users/grigoris/Websites/saas/htdocs/light-blue",
+			"/Users/grigoris/gaFramework/1.6",
+			"/Users/grigoris/Websites/saas",
+			"/Users/grigoris/Websites/saas/apps",
+			"/Users/grigoris/Websites/saas",
+			"/Users/grigoris/Websites/saas/apps",
+			"/Users/grigoris/Websites/saas/",
+			"/Users/grigoris/Websites/saas/apps/",
+			"/Users/grigoris/Websites/saas.dev/apps/",
+			"/Users/grigoris/Websites/saas.dev/htdocs/",
+			"/Users/grigoris/Websites/htdocs/",
+			"/Users/grigoris/Websites/htdocs/,/Users/grigoris/Websites/saas/htdocs/light-blue",
+			"/Users/grigoris/Websites/htdocs/light-blue",
+			"/Users/grigoris/Websites/saas/apps",
+			"/Users/grigoris/Websites/saas/htdocs/light-blue",
+			"/Users/grigoris/Websites/saas/htdocs/light-blue/js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Lastname",
+			"Basic",
+			"Arial",
+			"Roboto",
+			"Roboto_medium",
+			"Roboto",
+			"Roboto_medium",
+			"Roboto",
+			"Roboto_medium",
+			"Roboto",
+			"roboto",
+			"Roboto",
+			"Roboto_medium",
+			"Roboto",
+			"Roboto_medium",
+			"Rob",
+			"Roboto",
+			"Robo",
+			"Roboto",
+			"Roboto_medium",
+			"roboto",
+			"Exponent.Font",
+			"\"react\"",
+			"RootStackNavigator",
+			"RootNavigator",
+			"headerti",
+			"NativeBaseExpo",
+			"sub",
+			"rgb(70, 85, 96)",
+			"h3",
+			"menu-4",
+			"menu-t",
+			"500",
+			"h4",
+			"menu-4",
+			"acho",
+			"border",
+			"color",
+			"init",
+			"ready",
+			"myMod",
+			"map",
+			"bottom:",
+			"hover",
+			"next",
+			"h1",
+			"section",
+			"home",
+			"url",
+			"util",
+			"language<?php\n$query_args = array(\n  'post_type' => 'package',\n  'tax_query' => array(\n    array(\n      'taxonomy' => 'package_category',\n      'field'    => 'slug',\n      'terms'    => 'rental',\n    ),\n  ),\n);\n$my_query = new WP_Query($query_args);\nwhile ( $my_query->have_posts() ) : $my_query->the_post(); ?>\n      <div class=\"product\">\n        <?php echo wp_get_attachment_image( kdmfi_get_featured_image_id('featured-image-1', $post->ID), 'full', false, array('class' => 'img-responsive') ) ?>\n        <div class=\"overlay\">\n          <a href=\"<?php the_permalink(); ?>\" class=\"btn btn-default\">View &amp; Book</a>\n        </div>\n        <div class=\"caption\">\n          <div class=\"row\">\n            <h3 class=\"col-sm-9\"><?php the_title() ?></h3>\n            <div class=\"col-sm-3 price\"><?php echo $post->price ?></div>\n          </div>\n          <?php echo $post->short_description ?>\n        </div>\n      </div>\n<?php endwhile; ?>",
+			"auto",
+			"max-height: 500px;",
+			"max-h",
+			"form",
+			"fun",
+			"postJSON",
+			"get_vessels",
+			"ajax_vessel_search",
+			"script",
+			"quality",
+			"$row",
+			"]",
+			"['",
+			"insurer",
+			"ybuild",
+			"gt",
+			"post_title",
+			"mypod",
+			"ajax",
+			"greg",
+			"Greg",
+			"$data",
+			"</option>",
+			"\">",
+			">",
+			"csv",
+			"import",
+			"body",
+			"scrip",
+			"go-to",
+			"home",
+			"page-he",
+			"home",
+			"page-header",
+			"map",
+			"placeholder",
+			"home",
+			":",
+			"/",
+			"stor",
+			"address",
+			"contact_info",
+			"sw_footer_address",
+			"contact_info",
+			"td_fb_link",
+			"tdgr_footer_copyrights",
+			"cust",
+			"parallax",
+			"blog",
+			"owl",
+			"blog",
+			"get_template_directory_uri",
+			"enque",
+			"template",
+			"unika_cu",
+			"unika",
+			"unika_customizer_css",
+			"enu",
+			"aigaia_fonts",
+			"smoothscroll",
+			"localscroll",
+			"SCROLLTO",
+			"main-menu",
+			"menu-main",
+			"menu",
+			"nav",
+			"smoothscroll",
+			"localscroll",
+			"smooth",
+			"menu",
+			"blog",
+			"image",
+			"itaxi",
+			"map",
+			"enqu",
+			"maps",
+			"maps/api/js"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Roboto",
+			"Arial",
+			"eastpandi",
+			"eastpandi.smartwebsites.com.cy",
+			".after-header",
+			"#1A1D46",
+			"/js/prettyPhoto-1.6.1.min.js",
+			"http://www.forumarchitects.eu",
+			"YYYY-MM-DD",
+			"video",
+			"$user",
+			"getHumanName",
+			"<?php echo strtolower($this->getModelName()) ?>App.",
+			"<?php echo $this->getModelName() ?>",
+			"Company Name",
+			">",
+			"http://www.datatech.com.cy",
+			"Account",
+			"account",
+			"Remove",
+			"remove",
+			"r\\n\\",
+			"/img/3",
+			"/img/2",
+			"/img/1",
+			"",
+			"gaBs",
+			"",
+			"/home/users/web/b2925/pow.artemide"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/components/user/UserList.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1047,
+								1047
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 509.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/components/user/UserDetail.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1487,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1288,
+								1288
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 538.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"output.phpdocumentor":
+	{
+		"height": 112.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"output.xdebug":
+	{
+		"height": 25.0
+	},
+	"pinned_build_system": "",
+	"project": "CRUD-With-NativeBase.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"userli",
+				"js/components/user/UserDetail.js"
+			],
+			[
+				"basiclist.js",
+				"node_modules/native-base/src/basic/List.js"
+			],
+			[
+				"nativebaselist",
+				"node_modules/native-base/dist/src/basic/List.js"
+			],
+			[
+				"userdet",
+				"js/components/user/UserDetail.js"
+			],
+			[
+				"userlis",
+				"js/components/user/UserList.js"
+			],
+			[
+				"userde",
+				"js/components/user/UserDetail.js"
+			],
+			[
+				"reamapspack",
+				"node_modules/react-native-maps/package.json"
+			],
+			[
+				"reactbranpack",
+				"node_modules/react-native-branch/package.json"
+			],
+			[
+				"lottireacpack",
+				"node_modules/lottie-react-native/package.json"
+			],
+			[
+				"stacknavi",
+				"node_modules/react-navigation/lib/navigators/StackNavigator.js"
+			],
+			[
+				"head",
+				"header.php"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"proje",
+				"single-project.php"
+			],
+			[
+				"page",
+				"page.php"
+			],
+			[
+				"func",
+				"functions.php"
+			],
+			[
+				"footer",
+				"footer.php"
+			],
+			[
+				"header",
+				"header.php"
+			],
+			[
+				"fun",
+				"functions.php"
+			],
+			[
+				"gulpfi",
+				"gulpfile.js"
+			],
+			[
+				"hea",
+				"header.php"
+			],
+			[
+				"singlepro",
+				"single-project.php"
+			],
+			[
+				"pac",
+				"wp-content/themes/demades/package.json"
+			],
+			[
+				"pack",
+				"wp-content/themes/demades/package.json"
+			],
+			[
+				"gul",
+				"wp-content/themes/demades/gulpfile.js"
+			],
+			[
+				"packa",
+				"wp-content/themes/demades/package.json"
+			],
+			[
+				"de",
+				"deploy"
+			],
+			[
+				".gi",
+				".gitignore"
+			],
+			[
+				"wccheader",
+				"wp-content/themes/wcc/header.php"
+			],
+			[
+				"wccfron-pa",
+				"wp-content/themes/wcc/front-page.php"
+			],
+			[
+				"package.php",
+				"wp-content/themes/wcc/single-package.php"
+			],
+			[
+				"page.le",
+				"wp-content/themes/wcc/less/page.less"
+			],
+			[
+				"wccpage.php",
+				"wp-content/themes/wcc/page.php"
+			],
+			[
+				"db.php",
+				"db.php"
+			],
+			[
+				"wcc3",
+				"wcc3.sql"
+			],
+			[
+				"wcc",
+				"wcc3.sql"
+			],
+			[
+				"front",
+				"wp-content/themes/wcc/front-page.php"
+			],
+			[
+				"wccfunction",
+				"wp-content/themes/wcc/functions.php"
+			],
+			[
+				"deploy",
+				"deploy"
+			],
+			[
+				"functi",
+				"functions.php"
+			],
+			[
+				"td-c",
+				"inc/td-customizer.php"
+			],
+			[
+				"heade",
+				"header.php"
+			],
+			[
+				"td-",
+				"inc/td-customizer.php"
+			],
+			[
+				"fu",
+				"functions.php"
+			],
+			[
+				"foot",
+				"footer.php"
+			],
+			[
+				"style",
+				"htdocs/wp-content/themes/eastpandi/style.css"
+			],
+			[
+				"bscon",
+				"bs-config.js"
+			],
+			[
+				"content.ph",
+				"htdocs/wp-content/themes/eastpandi/content.php"
+			],
+			[
+				"page.php",
+				"htdocs/wp-content/themes/unika/page.php"
+			],
+			[
+				"shics",
+				"htdocs/ships.csv"
+			],
+			[
+				"htdoimp",
+				"htdocs/wp-admin/import.php"
+			],
+			[
+				"fl",
+				"_assets/flags.html"
+			],
+			[
+				"fla",
+				"_assets/flags.html"
+			],
+			[
+				"tdcu",
+				"htdocs/wp-content/themes/unika/inc/td-customizer.php"
+			],
+			[
+				"tdcus",
+				"htdocs/wp-content/themes/eastpandi/inc/td-customizer.php"
+			],
+			[
+				"bs-con",
+				"bs-config.js"
+			],
+			[
+				"styl",
+				"htdocs/wp-content/themes/eastpandi/style.css"
+			],
+			[
+				"rem",
+				"remote"
+			],
+			[
+				"local",
+				"local"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"depl",
+				"deploy"
+			],
+			[
+				"page.ph",
+				"htdocs/wp-content/themes/eastpandi/page.php"
+			],
+			[
+				"dep",
+				"deploy"
+			],
+			[
+				"foote",
+				"unika/footer.php"
+			],
+			[
+				"styel",
+				"eastpandi/style.css"
+			],
+			[
+				"index.",
+				"eastpandi/index.html"
+			],
+			[
+				"pag",
+				"unika/page.php"
+			],
+			[
+				"functions.js",
+				"htdocs/wp-content/themes/eastpandi/inc/js/functions.js"
+			],
+			[
+				"funi",
+				"htdocs/wp-content/themes/unika/functions.php"
+			],
+			[
+				"function.php",
+				"htdocs/wp-content/themes/unika/functions.php"
+			],
+			[
+				"sing",
+				"htdocs/wp-content/themes/unika/single.php"
+			],
+			[
+				"post.p",
+				"htdocs/wp-admin/post.php"
+			],
+			[
+				"sftp",
+				"sftp-config.json"
+			],
+			[
+				"td-cus",
+				"htdocs/wp-content/themes/unika/inc/td-customizer.php"
+			],
+			[
+				"sf",
+				"sftp-config.json"
+			],
+			[
+				"confi",
+				"htdocs/ckfinder/config.js"
+			],
+			[
+				"scri",
+				"htdocs/js/scripts.js"
+			],
+			[
+				"sid",
+				"apps/frontend/views/sidebar.block.php"
+			],
+			[
+				"frindcon",
+				"apps/frontend/controllers/index/indexController.class.php"
+			],
+			[
+				"backproj",
+				"apps/backend/controllers/project/projectController.class.php"
+			],
+			[
+				"frprojeco",
+				"apps/frontend/controllers/project/projectController.class.php"
+			],
+			[
+				"frpagcon",
+				"apps/frontend/controllers/page/pageController.class.php"
+			],
+			[
+				"frprojinde",
+				"apps/frontend/controllers/project/views/index.view.php"
+			],
+			[
+				"side",
+				"apps/frontend/views/sidebar.block.php"
+			],
+			[
+				"contac",
+				"apps/frontend/controllers/page/views/contact.view.php"
+			],
+			[
+				"frprojeind",
+				"apps/frontend/controllers/project/views/index.view.php"
+			],
+			[
+				"frindexvi",
+				"apps/frontend/controllers/project/views/index.view.php"
+			],
+			[
+				"scrip",
+				"htdocs/js/scripts.js"
+			],
+			[
+				"frblog.vi",
+				"apps/frontend/controllers/page/views/blog.view.php"
+			],
+			[
+				"contact",
+				"apps/frontend/controllers/page/views/contact.view.php"
+			],
+			[
+				"frprojshow.",
+				"apps/frontend/controllers/project/views/show.view.php"
+			],
+			[
+				"show",
+				"apps/backend/controllers/role/views/show.view.php"
+			],
+			[
+				"blue",
+				"htdocs/css/colors/blue.css"
+			],
+			[
+				"frontshow.",
+				"apps/frontend/controllers/page/views/show.view.php"
+			],
+			[
+				"layou",
+				"htdocs/css/layout.css"
+			],
+			[
+				"frproj",
+				"apps/frontend/controllers/project/projectController.class.php"
+			],
+			[
+				"frolay",
+				"apps/frontend/views/layout.view.php"
+			],
+			[
+				"layo",
+				"htdocs/images/icons/css/layout.css"
+			],
+			[
+				"blu",
+				"htdocs/css/colors/blue.css"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"fronlayou",
+				"apps/frontend/views/layout.view.php"
+			],
+			[
+				"fronlayo",
+				"apps/frontend/views/layout.view.php"
+			],
+			[
+				"frlayou",
+				"apps/frontend/views/layout.view.php"
+			],
+			[
+				"config.php",
+				"lib/model/Config.php"
+			],
+			[
+				"fropagcon",
+				"apps/frontend/controllers/page/pageController.class.php"
+			],
+			[
+				"conficon",
+				"apps/backend/controllers/config/configController.class.php"
+			],
+			[
+				"frindeview",
+				"apps/frontend/controllers/index/views/index.view.php"
+			],
+			[
+				"frinde",
+				"apps/frontend/controllers/index/indexController.class.php"
+			],
+			[
+				"sft",
+				"sftp-config.json"
+			],
+			[
+				"fronlay",
+				"apps/frontend/views/layout.view.php"
+			],
+			[
+				"ske",
+				"htdocs/css/skeleton.css"
+			],
+			[
+				"base",
+				"htdocs/css/base.css"
+			],
+			[
+				"frontlayo",
+				"apps/frontend/views/layout.view.php"
+			],
+			[
+				".ht",
+				"htdocs/.htaccess"
+			],
+			[
+				"froprojsho",
+				"apps/frontend/controllers/project/views/show.view.php"
+			],
+			[
+				"fronproco",
+				"apps/frontend/controllers/project/projectController.class.php"
+			],
+			[
+				"frpagecon",
+				"apps/frontend/controllers/page/pageController.class.php"
+			],
+			[
+				"fropag",
+				"apps/frontend/controllers/page/pageController.class.php"
+			],
+			[
+				"blog",
+				"apps/frontend/controllers/page/views/blog.view.php"
+			],
+			[
+				"fron",
+				"htdocs/css/frontend.css"
+			],
+			[
+				"frontend",
+				"htdocs/css/frontend.css"
+			],
+			[
+				"frontendcon",
+				"apps/frontend/controllers/frontendController.class.php"
+			],
+			[
+				"frontendlay",
+				"apps/frontend/views/layout.view.php"
+			],
+			[
+				"scripts.js",
+				"htdocs/js/scripts.js"
+			],
+			[
+				"bas",
+				"htdocs/css/base.css"
+			],
+			[
+				"latostyl",
+				"htdocs/css/lato/stylesheet.css"
+			],
+			[
+				"latosty",
+				"htdocs/css/lato/stylesheet.css"
+			],
+			[
+				"fitvi",
+				"htdocs/js/jquery.fitvids.min.js"
+			],
+			[
+				"bxslijs",
+				"htdocs/js/jquery.bxslider.min.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "win",
+		"selected_items":
+		[
+			[
+				"win",
+				"~/Websites/wcc3/windsurfcitycyprus.sublime-project"
+			],
+			[
+				"w",
+				"~/Websites/wcc3/windsurfcitycyprus.sublime-project"
+			],
+			[
+				"dem",
+				"~/Websites/demades/demades.sublime-project"
+			],
+			[
+				"adre",
+				"~/Websites/adrelevance/adrelevance.sublime-project"
+			],
+			[
+				"d",
+				"~/Websites/demades/demades.sublime-project"
+			],
+			[
+				"de",
+				"~/Websites/demades/demades.sublime-project"
+			],
+			[
+				"dema",
+				"~/Websites/demades/demades.sublime-project"
+			],
+			[
+				"sma",
+				"~/Websites/smartwebsites5/smartwebsites5.sublime-project"
+			],
+			[
+				"aig",
+				"~/Websites/aigaia/aigaia.sublime-project"
+			],
+			[
+				"smar",
+				"~/Websites/smartwebsites5/smartwebsites5.sublime-project"
+			],
+			[
+				"ai",
+				"~/Websites/aigaia/aigaia.sublime-project"
+			],
+			[
+				"ita",
+				"~/Websites/itaxi/itaxi.sublime-project"
+			],
+			[
+				"",
+				"~/Websites/demades/demades.sublime-project"
+			],
+			[
+				"east",
+				"~/Websites/eastpandi/eastpandi.sublime-project"
+			],
+			[
+				"eas",
+				"~/Websites/eastpandi/eastpandi.sublime-project"
+			],
+			[
+				"wind",
+				"~/Websites/eastpandi/htdocs/wp-content/themes/eastpandi/windsurfcitycyprus.sublime-project"
+			],
+			[
+				"kall",
+				"~/Websites/kalliasandassociates2/kalliasandassociates.sublime-project"
+			],
+			[
+				"side",
+				"~/Websites/eastpandi/eastpandi.sublime-project"
+			],
+			[
+				"ar",
+				"~/Websites/africanos/africanos.sublime-project"
+			],
+			[
+				"k",
+				"~/Websites/sofocleskyprianou.com/sofocleskyprianou.sublime-workspace"
+			],
+			[
+				"hy",
+				"~/Websites/nemanja/hypermedia.radevic.com/hypermedia.sublime-project"
+			],
+			[
+				"j",
+				"~/Websites/africanos/africanos.sublime-project"
+			],
+			[
+				"sofo",
+				"~/Websites/sofocleskyprianou.com/sofocleskyprianou.sublime-project"
+			],
+			[
+				"itaxi",
+				"~/Websites/itaxi/itaxi.sublime-project"
+			],
+			[
+				"dery",
+				"~/Websites/deryan3/deryan3.sublime-project"
+			],
+			[
+				"cgf",
+				"~/Websites/cyprus_greece_fine_properties3/cgfp3.sublime-project"
+			],
+			[
+				"adr",
+				"~/Websites/adrelevance/adrelevance.sublime-project"
+			],
+			[
+				"green",
+				"~/Websites/CWLN/website2/green_cluster.sublime-project"
+			],
+			[
+				"gre",
+				"~/Websites/CWLN/website2/green_cluster.sublime-project"
+			],
+			[
+				"ad",
+				"~/Websites/adrelevance/adrelevance.sublime-project"
+			],
+			[
+				"gren",
+				"~/Websites/CWLN/website2/green_cluster.sublime-project"
+			],
+			[
+				"cyprus",
+				"~/Websites/cyprus_greece_fine_properties3/cgfp3.sublime-project"
+			],
+			[
+				"wgre",
+				"~/Websites/CWLN/website2/green_cluster.sublime-project"
+			],
+			[
+				"gree",
+				"~/Websites/CWLN/website2/green_cluster.sublime-project"
+			],
+			[
+				"c",
+				"~/Websites/cyprus_greece_fine_properties3/cgfp3.sublime-project"
+			],
+			[
+				"afri",
+				"~/Websites/africanos2/africanos2.sublime-project"
+			],
+			[
+				"cwl",
+				"~/Websites/CWLN/website/cwln-website.sublime-project"
+			],
+			[
+				"cyp",
+				"~/Websites/cyprus_greece_fine_properties3/cgfp3.sublime-project"
+			],
+			[
+				"e",
+				"~/Websites/equationcs.com/equationcs.sublime-project"
+			],
+			[
+				"equ",
+				"~/Websites/equationcs.com/equationcs.sublime-project"
+			],
+			[
+				"sid",
+				"/Users/grigoris/Websites/experiments/inline-edit/inline-edit.sublime-project"
+			],
+			[
+				"sitef",
+				"/Users/grigoris/Websites/CWLN/forum/cwln-forum.sublime-project"
+			],
+			[
+				"forum",
+				"/Users/grigoris/Websites/CWLN/forum/cwln-forum.sublime-project"
+			],
+			[
+				"zed",
+				"/Users/grigoris/Websites/zedem/zedem.sublime-project"
+			],
+			[
+				"hay",
+				"/Users/grigoris/Websites/haygroup/haygroup.sublime-project"
+			],
+			[
+				"inli",
+				"/Users/grigoris/Websites/experiments/inline-edit/inline-edit.sublime-project"
+			],
+			[
+				"sa",
+				"/Users/grigoris/Websites/saas/saas.sublime-project"
+			],
+			[
+				"max",
+				"/Users/grigoris/Websites/_various/maxx.com.cy/maxx.sublime-project"
+			],
+			[
+				"si",
+				"/Users/grigoris/Websites/pandorabakeries.com/pandora.sublime-project"
+			],
+			[
+				"saas",
+				"/Users/grigoris/Websites/experiments/api/src/Api/Webapp/Controllers/api.sublime-project"
+			],
+			[
+				"ski",
+				"/Users/grigoris/Websites/skillpill/skillpill.sublime-project"
+			],
+			[
+				"saa",
+				"/Users/grigoris/Websites/saas/saas.sublime-project"
+			],
+			[
+				"winco",
+				"/Users/grigoris/Websites/wincono.com/wincono.sublime-project"
+			],
+			[
+				"equation",
+				"/Users/grigoris/Websites/equationcs.com/equationcs.sublime-project"
+			],
+			[
+				"equa",
+				"/Users/grigoris/Websites/equationcs.com/equationcs.sublime-project"
+			],
+			[
+				"cool",
+				"/Users/grigoris/Websites/coolanimations.net/coolanimations.net.sublime-project"
+			],
+			[
+				"haygr",
+				"/Users/grigoris/Websites/haygroup/haygroup.sublime-project"
+			],
+			[
+				"AFRI",
+				"/Users/grigoris/Websites/africanos/africanos.sublime-project"
+			],
+			[
+				"equationcs",
+				"/Users/grigoris/Websites/equationcs.com/equationcs.sublime-project"
+			],
+			[
+				"haygroup",
+				"/Users/grigoris/Websites/haygroup/haygroup.sublime-project"
+			],
+			[
+				"exp",
+				"/Users/grigoris/Websites/experiments/experiments.sublime-project"
+			],
+			[
+				"fr",
+				"/Users/grigoris/Websites/frsaudit.com/frsaudit.sublime-project"
+			],
+			[
+				"owl",
+				"/Users/grigoris/Websites/experiments/owl.carousel/owl.sublime-project"
+			],
+			[
+				"ow",
+				"/Users/grigoris/Websites/experiments/owl.carousel/owl.sublime-project"
+			],
+			[
+				"equc",
+				"/Users/grigoris/Websites/equationcs.com/equationcs.sublime-project"
+			],
+			[
+				"saas.sublim",
+				"/Users/grigoris/Websites/saas/saas.sublime-project"
+			],
+			[
+				"f",
+				"/Users/grigoris/Websites/africanos/africanos.sublime-project"
+			],
+			[
+				"gacrm",
+				"/Users/grigoris/Websites/gaCRM/gaCRM.sublime-project"
+			],
+			[
+				"afr",
+				"/Users/grigoris/Websites/africanos/africanos.sublime-project"
+			],
+			[
+				"eq",
+				"/Users/grigoris/Websites/equationcs.com/equationcs.sublime-project"
+			],
+			[
+				"afric",
+				"/Users/grigoris/Websites/africanos/africanos.sublime-project"
+			],
+			[
+				"africano",
+				"/Users/grigoris/Websites/africanos/africanos.sublime-project"
+			],
+			[
+				"api",
+				"/Users/grigoris/Websites/experiments/api/api.sublime-project"
+			],
+			[
+				"e-c",
+				"/Users/grigoris/Websites/e-communities/e-communities.sublime-project"
+			],
+			[
+				"e-com",
+				"/Users/grigoris/Websites/e-communities/e-communities.sublime-project"
+			],
+			[
+				"e-co",
+				"/Users/grigoris/Websites/e-communities/e-communities.sublime-project"
+			],
+			[
+				"co",
+				"/Users/grigoris/Websites/coolanimations.net/coolanimations.net.sublime-project"
+			],
+			[
+				"pro",
+				"/Users/grigoris/Websites/saas/saas.sublime-project"
+			],
+			[
+				"ecom",
+				"/Users/grigoris/Websites/e-communities/e-communities.sublime-project"
+			],
+			[
+				"skil",
+				"/Users/grigoris/Websites/skillpill/skillpill.sublime-project"
+			],
+			[
+				"exper",
+				"/Users/grigoris/Websites/experiments/experiments.sublime-project"
+			],
+			[
+				"s",
+				"/Users/grigoris/Websites/e-communities-sf/e-communities-sf.sublime-project"
+			],
+			[
+				"sf",
+				"/Users/grigoris/Websites/e-communities-sf/e-communities-sf.sublime-project"
+			],
+			[
+				"se-o",
+				"/Users/grigoris/Websites/e-communities-sf/e-communities-sf.sublime-project"
+			],
+			[
+				"wiskil",
+				"/Users/grigoris/Websites/skillpill/skillpill.sublime-project"
+			],
+			[
+				"sk",
+				"/Users/grigoris/Websites/skillpill/skillpill.sublime-project"
+			],
+			[
+				"bootstrap",
+				"/Users/grigoris/Websites/bootstrap/bootstap.sublime-project"
+			],
+			[
+				"frs",
+				"/Users/grigoris/Websites/FRSAudit.com/frsaudit.sublime-project"
+			],
+			[
+				"skillpill",
+				"/Users/grigoris/Websites/skillpill/skillpill.sublime-project"
+			],
+			[
+				"skillpi",
+				"/Users/grigoris/Websites/skillpill/skillpill.sublime-project"
+			],
+			[
+				"skilpill.",
+				"/Users/grigoris/Websites/skillpill/skillpill.sublime-project"
+			],
+			[
+				"coo",
+				"/Users/grigoris/Websites/coolanimations.net/coolanimations.net.sublime-project"
+			],
+			[
+				"ecomsf",
+				"/Users/grigoris/Websites/e-communities-sf/untitled.sublime-project"
+			],
+			[
+				"apo",
+				"/Users/grigoris/Websites/apollonion.com/_ASSETS/apollonion.sublime-project"
+			],
+			[
+				"apol",
+				"/Users/grigoris/Websites/apollonion.com/_ASSETS/apollonion.sublime-project"
+			],
+			[
+				"kallia",
+				"/Users/grigoris/Websites/kalliasandassociates.com/kalliasandassociates.com.sublime-project"
+			],
+			[
+				"ec",
+				"/Users/grigoris/Websites/e-communities/e-communities.sublime-project"
+			],
+			[
+				"gac",
+				"/Users/grigoris/Websites/gaCRM/gaCRM.sublime-project"
+			],
+			[
+				"COOL",
+				"/Users/grigoris/Websites/coolanimations.net/coolanimations.net.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
