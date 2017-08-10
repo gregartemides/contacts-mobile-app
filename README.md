@@ -2,6 +2,9 @@
 
 The objective was to build both a mobile (React Native) and web experience (React) over a REST api (NodeJS, Express).
 
+![contacts mobile app gif](https://imgflip.com/gif/1tv2ce "Contacts Mobile App")
+
+
 ## Demo
 https://expo.io/@gregartemides/Contacts-CRUD-RESTful
 
