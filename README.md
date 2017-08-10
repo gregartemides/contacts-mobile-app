@@ -7,13 +7,14 @@ https://expo.io/@gregartemides/Contacts-CRUD-RESTful
 
 ## Companion Projects
 Contacts RESTful Api: https://github.com/gregartemides/contacts-api
+
 Contacts Web App on Codepen: https://codepen.io/gregartemides/pen/WEjZpa
 
 ## Setup
 Prerequisites: You need to have Expo XDE or the exp CLI installed
 ```
-git clone ...
-cd <directory>
+git clone https://github.com/gregartemides/contacts-mobile-app.git
+cd contacts-mobile-app
 npm install
 exp start
 ```
