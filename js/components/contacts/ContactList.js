@@ -147,8 +147,6 @@ class ContactList extends Component {
             <Button transparent onPress={() => this.fetchContacts()}>
               <Text>Reload</Text>
             </Button>
-          </Right>
-          <Right>
             <Button transparent onPress={() => this.props.navigation.navigate('ContactDetail', {
                 contact: {
                   key: null,
@@ -173,7 +171,7 @@ class ContactList extends Component {
                 updateContact: this.updateContact,
                 deleteContact: this.handleDeleteContact
               })}>
-                <Text>{contact.Name + ' ' + contact.Phone}</Text>
+                <Text>{contact.Name}</Text>
                 <Right>
                   <Icon name="arrow-forward" />
                 </Right>
