@@ -10,7 +10,7 @@ https://expo.io/@gregartemides/Contacts-CRUD-RESTful
 
 ## Companion Projects
 1. Contacts RESTful Api: https://github.com/gregartemides/contacts-api
-2. Contacts Web App on Codepen: https://codepen.io/gregartemides/pen/WEjZpa
+2. Contacts Web App on Codepen: https://codepen.io/gregartemides/details/WEEPYJ/
 
 ## Setup
 Prerequisites: You need to have Expo XDE or the exp CLI installed

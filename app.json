@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Contacts App - A React Native App that consumes a RESTful API",
-    "description": "The React Native Mobile companion to a React Web App. It CRUDs a RESTful API. Source code for App and API on gregartemides.github.com, Web App on Codepen.",
+    "description": "The React Native Mobile companion to a React Web App. It CRUDs a RESTful API. Source code for App and API on https://gregartemides.github.com, Web App demo: https://codepen.io/gregartemides/details/WEEPYJ/",
     "slug": "Contacts-CRUD-RESTful",
     "privacy": "public",
     "sdkVersion": "18.0.0",
